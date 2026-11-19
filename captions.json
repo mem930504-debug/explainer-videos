@@ -1,0 +1,224 @@
+{
+ "2026-11-07_determinant.mp4": {
+  "ig": "The determinant: how much a matrix stretches space\n\nOne number tells you how much a matrix stretches, flips or flattens space.\n\n#linearalgebra #determinant #matrix #math #mathematics #maths #calculus #engineering #studytips #learnoninstagram #education #stem #explained",
+  "yt_desc": "One number tells you how much a matrix stretches, flips or flattens space.\n\n#linearalgebra #determinant #matrix #math #mathematics #maths #calculus #engineering #studytips #shorts #education #stem",
+  "title": "The determinant: how much a matrix stretches space",
+  "comment": "#linearalgebra #determinant #matrix #math"
+ },
+ "2026-11-07_eigenvectors.mp4": {
+  "ig": "Eigenvectors: the directions a matrix only stretches\n\nMost arrows get knocked off course by a matrix. A few only stretch, and they explain everything else.\n\n#linearalgebra #eigenvectors #eigenvalues #matrix #math #mathematics #maths #engineering #datascience #learnoninstagram #education #stem #explained",
+  "yt_desc": "Most arrows get knocked off course by a matrix. A few only stretch, and they explain everything else.\n\n#linearalgebra #eigenvectors #eigenvalues #matrix #math #mathematics #maths #engineering #datascience #shorts #education #stem",
+  "title": "Eigenvectors: the directions a matrix only stretches",
+  "comment": "#linearalgebra #eigenvectors #eigenvalues #matrix"
+ },
+ "2026-11-07_linear-map.mp4": {
+  "ig": "Every linear map is just a matrix\n\nFollow where two arrows land and you have written down the whole transformation.\n\n#linearalgebra #lineartransformation #matrix #vectors #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "Follow where two arrows land and you have written down the whole transformation.\n\n#linearalgebra #lineartransformation #matrix #vectors #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "Every linear map is just a matrix",
+  "comment": "#linearalgebra #lineartransformation #matrix #vectors"
+ },
+ "2026-11-07_least-squares.mp4": {
+  "ig": "Least squares: the best line through noisy points\n\nWhy \"least squares\"? Because the best line literally makes the squares as small as possible.\n\n#linearalgebra #leastsquares #regression #statistics #datascience #machinelearning #math #maths #dataanalysis #learnoninstagram #education #stem #explained",
+  "yt_desc": "Why \"least squares\"? Because the best line literally makes the squares as small as possible.\n\n#linearalgebra #leastsquares #regression #statistics #datascience #machinelearning #math #maths #dataanalysis #shorts #education #stem",
+  "title": "Least squares: the best line through noisy points",
+  "comment": "#linearalgebra #leastsquares #regression #statistics"
+ },
+ "2026-11-08_noise-cancelling.mp4": {
+  "ig": "How noise-cancelling headphones work\n\nYour headphones erase noise by playing its exact opposite, perfectly timed.\n\n#noisecancelling #headphones #physics #soundwaves #acoustics #howitworks #tech #engineering #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Your headphones erase noise by playing its exact opposite, perfectly timed.\n\n#noisecancelling #headphones #physics #soundwaves #acoustics #howitworks #tech #engineering #science #shorts #education #stem",
+  "title": "How noise-cancelling headphones work",
+  "comment": "#noisecancelling #headphones #physics #soundwaves"
+ },
+ "2026-11-08_sky-blue.mp4": {
+  "ig": "Why the sky is blue\n\nSunlight is white, so where does the blue come from? The air itself. And sunsets are what's left over.\n\n#whyistheskyblue #sky #light #physics #rayleighscattering #sunset #science #nature #howitworks #learnoninstagram #education #stem #explained",
+  "yt_desc": "Sunlight is white, so where does the blue come from? The air itself. And sunsets are what's left over.\n\n#whyistheskyblue #sky #light #physics #rayleighscattering #sunset #science #nature #howitworks #shorts #education #stem",
+  "title": "Why the sky is blue",
+  "comment": "#whyistheskyblue #sky #light #physics"
+ },
+ "2026-11-08_dot-product.mp4": {
+  "ig": "The dot product and the angle between vectors\n\nMultiply, add, and you know the angle between two arrows. Zero means perpendicular.\n\n#linearalgebra #dotproduct #vectors #geometry #math #mathematics #maths #physics #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "Multiply, add, and you know the angle between two arrows. Zero means perpendicular.\n\n#linearalgebra #dotproduct #vectors #geometry #math #mathematics #maths #physics #engineering #shorts #education #stem",
+  "title": "The dot product and the angle between vectors",
+  "comment": "#linearalgebra #dotproduct #vectors #geometry"
+ },
+ "2026-11-09_fridge.mp4": {
+  "ig": "How a fridge moves heat out\n\nYour fridge doesn't make cold. It moves heat out of the box and dumps it into your kitchen.\n\n#refrigerator #thermodynamics #physics #heat #howitworks #engineering #science #kitchen #learnoninstagram #education #stem #explained",
+  "yt_desc": "Your fridge doesn't make cold. It moves heat out of the box and dumps it into your kitchen.\n\n#refrigerator #thermodynamics #physics #heat #howitworks #engineering #science #kitchen #shorts #education #stem",
+  "title": "How a fridge moves heat out",
+  "comment": "#refrigerator #thermodynamics #physics #heat"
+ },
+ "2026-11-09_gps.mp4": {
+  "ig": "How GPS knows where you are\n\nYour phone finds you to within metres by listening to clocks in space. Even relativity has to be corrected for.\n\n#gps #satellites #navigation #physics #relativity #howitworks #tech #space #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Your phone finds you to within metres by listening to clocks in space. Even relativity has to be corrected for.\n\n#gps #satellites #navigation #physics #relativity #howitworks #tech #space #science #shorts #education #stem",
+  "title": "How GPS knows where you are",
+  "comment": "#gps #satellites #navigation #physics"
+ },
+ "2026-11-09_gram-schmidt.mp4": {
+  "ig": "Gram-Schmidt: turning any basis into a right-angled one\n\nSubtract the projection, normalise, repeat. Any basis becomes orthonormal.\n\n#linearalgebra #gramschmidt #orthogonal #vectors #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "Subtract the projection, normalise, repeat. Any basis becomes orthonormal.\n\n#linearalgebra #gramschmidt #orthogonal #vectors #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "Gram-Schmidt: turning any basis into a right-angled one",
+  "comment": "#linearalgebra #gramschmidt #orthogonal #vectors"
+ },
+ "2026-11-10_microwave.mp4": {
+  "ig": "How a microwave heats food\n\nA microwave doesn't heat food from the outside. It twists the water molecules inside billions of times a second, until the food heats itself.\n\n#microwave #cooking #physics #electromagnetism #howitworks #kitchen #science #tech #learnoninstagram #education #stem #explained",
+  "yt_desc": "A microwave doesn't heat food from the outside. It twists the water molecules inside billions of times a second, until the food heats itself.\n\n#microwave #cooking #physics #electromagnetism #howitworks #kitchen #science #tech #shorts #education #stem",
+  "title": "How a microwave heats food",
+  "comment": "#microwave #cooking #physics #electromagnetism"
+ },
+ "2026-11-10_ice-floats.mp4": {
+  "ig": "Why ice floats\n\nMost solids sink in their own liquid. Ice floats because hydrogen bonds lock water into an open lattice full of empty space.\n\n#ice #water #chemistry #physics #density #hydrogenbond #science #nature #howitworks #learnoninstagram #education #stem #explained",
+  "yt_desc": "Most solids sink in their own liquid. Ice floats because hydrogen bonds lock water into an open lattice full of empty space.\n\n#ice #water #chemistry #physics #density #hydrogenbond #science #nature #howitworks #shorts #education #stem",
+  "title": "Why ice floats",
+  "comment": "#ice #water #chemistry #physics"
+ },
+ "2026-11-10_rotation.mp4": {
+  "ig": "Rotation matrices in 2D and 3D\n\nWhere do i hat and j hat land after a turn? Put the answers in the columns and you get the rotation matrix.\n\n#linearalgebra #rotationmatrix #matrix #trigonometry #3d #gamedev #math #maths #graphics #learnoninstagram #education #stem #explained",
+  "yt_desc": "Where do i hat and j hat land after a turn? Put the answers in the columns and you get the rotation matrix.\n\n#linearalgebra #rotationmatrix #matrix #trigonometry #3d #gamedev #math #maths #graphics #shorts #education #stem",
+  "title": "Rotation matrices in 2D and 3D",
+  "comment": "#linearalgebra #rotationmatrix #matrix #trigonometry"
+ },
+ "2026-11-11_rainbow.mp4": {
+  "ig": "How a rainbow forms\n\nEvery rainbow is a circle of light 42 degrees around the shadow of your head, made by sunlight bending and bouncing inside raindrops.\n\n#rainbow #light #optics #physics #weather #nature #refraction #science #howitworks #learnoninstagram #education #stem #explained",
+  "yt_desc": "Every rainbow is a circle of light 42 degrees around the shadow of your head, made by sunlight bending and bouncing inside raindrops.\n\n#rainbow #light #optics #physics #weather #nature #refraction #science #howitworks #shorts #education #stem",
+  "title": "How a rainbow forms",
+  "comment": "#rainbow #light #optics #physics"
+ },
+ "2026-11-11_tides.mp4": {
+  "ig": "How tides work\n\nThe Moon pulls harder on the near side of Earth than the far side, so the ocean stretches into two bulges and we spin through them twice a day.\n\n#tides #moon #ocean #gravity #physics #astronomy #sea #science #nature #learnoninstagram #education #stem #explained",
+  "yt_desc": "The Moon pulls harder on the near side of Earth than the far side, so the ocean stretches into two bulges and we spin through them twice a day.\n\n#tides #moon #ocean #gravity #physics #astronomy #sea #science #nature #shorts #education #stem",
+  "title": "How tides work",
+  "comment": "#tides #moon #ocean #gravity"
+ },
+ "2026-11-11_matrix-multiplication.mp4": {
+  "ig": "Matrix multiplication is doing one map after another\n\nRows times columns is just a shortcut: a matrix product is one transformation followed by another, which is why AB is not BA.\n\n#linearalgebra #matrixmultiplication #matrix #math #mathematics #maths #engineering #computerscience #learnoninstagram #education #stem #explained",
+  "yt_desc": "Rows times columns is just a shortcut: a matrix product is one transformation followed by another, which is why AB is not BA.\n\n#linearalgebra #matrixmultiplication #matrix #math #mathematics #maths #engineering #computerscience #shorts #education #stem",
+  "title": "Matrix multiplication is doing one map after another",
+  "comment": "#linearalgebra #matrixmultiplication #matrix #math"
+ },
+ "2026-11-12_touchscreen.mp4": {
+  "ig": "How a touchscreen knows where you tap\n\nYour phone never feels a press. A grid of invisible wires measures the electric field your finger steals, and finds the spot to within a millimetre.\n\n#touchscreen #smartphone #iphone #tech #electronics #physics #howitworks #engineering #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Your phone never feels a press. A grid of invisible wires measures the electric field your finger steals, and finds the spot to within a millimetre.\n\n#touchscreen #smartphone #iphone #tech #electronics #physics #howitworks #engineering #science #shorts #education #stem",
+  "title": "How a touchscreen knows where you tap",
+  "comment": "#touchscreen #smartphone #iphone #tech"
+ },
+ "2026-11-12_sea-salty.mp4": {
+  "ig": "Why the sea is salty\n\nRivers are fresh, so why is the sea salty? Rain slowly dissolves rock, rivers carry the minerals out, and when the sea evaporates the salt stays behind.\n\n#ocean #sea #salt #earthscience #geology #chemistry #nature #science #funfacts #learnoninstagram #education #stem #explained",
+  "yt_desc": "Rivers are fresh, so why is the sea salty? Rain slowly dissolves rock, rivers carry the minerals out, and when the sea evaporates the salt stays behind.\n\n#ocean #sea #salt #earthscience #geology #chemistry #nature #science #funfacts #shorts #education #stem",
+  "title": "Why the sea is salty",
+  "comment": "#ocean #sea #salt #earthscience"
+ },
+ "2026-11-12_inverse-matrix.mp4": {
+  "ig": "The inverse matrix: undoing a transformation\n\nThe inverse is the undo button for a matrix: it puts every point back where it started, and it only exists when the determinant isn't zero.\n\n#linearalgebra #inversematrix #matrix #determinant #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "The inverse is the undo button for a matrix: it puts every point back where it started, and it only exists when the determinant isn't zero.\n\n#linearalgebra #inversematrix #matrix #determinant #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "The inverse matrix: undoing a transformation",
+  "comment": "#linearalgebra #inversematrix #matrix #determinant"
+ },
+ "2026-11-13_transistor.mp4": {
+  "ig": "How a transistor switches\n\nBillions of switches with no moving parts. A tiny voltage on the gate pulls electrons into a bridge, and current flows. Take it away and the bridge vanishes.\n\n#transistor #electronics #semiconductor #computerchip #physics #tech #engineering #howitworks #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Billions of switches with no moving parts. A tiny voltage on the gate pulls electrons into a bridge, and current flows. Take it away and the bridge vanishes.\n\n#transistor #electronics #semiconductor #computerchip #physics #tech #engineering #howitworks #science #shorts #education #stem",
+  "title": "How a transistor switches",
+  "comment": "#transistor #electronics #semiconductor #computerchip"
+ },
+ "2026-11-13_battery.mp4": {
+  "ig": "How a lithium battery stores energy\n\nCharging pushes lithium uphill into the graphite. Using your phone lets it roll back, and the electrons have to take the long way through your phone's circuits.\n\n#battery #lithiumion #chemistry #electricity #energy #tech #ev #howitworks #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Charging pushes lithium uphill into the graphite. Using your phone lets it roll back, and the electrons have to take the long way through your phone's circuits.\n\n#battery #lithiumion #chemistry #electricity #energy #tech #ev #howitworks #science #shorts #education #stem",
+  "title": "How a lithium battery stores energy",
+  "comment": "#battery #lithiumion #chemistry #electricity"
+ },
+ "2026-11-13_change-of-basis.mp4": {
+  "ig": "Change of basis: same vector, different coordinates\n\nThe arrow never moves, only the grid does. In the basis (1, 1), (-1, 1), the vector (3, 1) becomes (2, -1), and the matrix P translates between them.\n\n#linearalgebra #changeofbasis #vectors #matrix #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "The arrow never moves, only the grid does. In the basis (1, 1), (-1, 1), the vector (3, 1) becomes (2, -1), and the matrix P translates between them.\n\n#linearalgebra #changeofbasis #vectors #matrix #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "Change of basis: same vector, different coordinates",
+  "comment": "#linearalgebra #changeofbasis #vectors #matrix"
+ },
+ "2026-11-14_lift.mp4": {
+  "ig": "How an airplane wing makes lift\n\nA wing is an air bender. Its curve and tilt throw air downward, so the air pushes the wing up, with lower pressure on top and higher pressure below. And no, the air on top doesn't have to \"meet up\" at the back.\n\n#aviation #airplane #aerodynamics #physics #pilot #flight #engineering #howitworks #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "A wing is an air bender. Its curve and tilt throw air downward, so the air pushes the wing up, with lower pressure on top and higher pressure below. And no, the air on top doesn't have to \"meet up\" at the back.\n\n#aviation #airplane #aerodynamics #physics #pilot #flight #engineering #howitworks #science #shorts #education #stem",
+  "title": "How an airplane wing makes lift",
+  "comment": "#aviation #airplane #aerodynamics #physics"
+ },
+ "2026-11-14_solar-panel.mp4": {
+  "ig": "How solar panels make electricity\n\nTwo layers of silicon make a built-in slope. Sunlight knocks electrons loose, the slope pushes them to the top, and they run through your wires as current.\n\n#solarpanels #solarenergy #renewableenergy #electricity #physics #greenenergy #howitworks #sustainability #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Two layers of silicon make a built-in slope. Sunlight knocks electrons loose, the slope pushes them to the top, and they run through your wires as current.\n\n#solarpanels #solarenergy #renewableenergy #electricity #physics #greenenergy #howitworks #sustainability #science #shorts #education #stem",
+  "title": "How solar panels make electricity",
+  "comment": "#solarpanels #solarenergy #renewableenergy #electricity"
+ },
+ "2026-11-14_linear-dependence.mp4": {
+  "ig": "Linear dependence: when a vector is redundant\n\nu = (1, 0) and v = (1, 2) already span the plane, so w = (3, 4) = u + 2v adds nothing new. If some combination with weights not all zero gives zero, the set is dependent.\n\n#linearalgebra #lineardependence #vectors #span #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "u = (1, 0) and v = (1, 2) already span the plane, so w = (3, 4) = u + 2v adds nothing new. If some combination with weights not all zero gives zero, the set is dependent.\n\n#linearalgebra #lineardependence #vectors #span #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "Linear dependence: when a vector is redundant",
+  "comment": "#linearalgebra #lineardependence #vectors #span"
+ },
+ "2026-11-15_camera-lens.mp4": {
+  "ig": "How a camera lens focuses\n\nLight from one point spreads out, and a lens bends it back together. Close things focus farther behind the lens, so your camera slides the lens a fraction of a millimetre until the light meets exactly on the sensor.\n\n#camera #lens #optics #photography #physics #light #howitworks #science #tech #learnoninstagram #education #stem #explained",
+  "yt_desc": "Light from one point spreads out, and a lens bends it back together. Close things focus farther behind the lens, so your camera slides the lens a fraction of a millimetre until the light meets exactly on the sensor.\n\n#camera #lens #optics #photography #physics #light #howitworks #science #tech #shorts #education #stem",
+  "title": "How a camera lens focuses",
+  "comment": "#camera #lens #optics #photography"
+ },
+ "2026-11-15_electric-motor.mp4": {
+  "ig": "How an electric motor spins\n\nCurrent in a wire makes a magnetic field, and a magnet pushes on it. Bend the wire into a loop and you get a twist; flip the current every half turn and it spins forever.\n\n#electricmotor #electromagnetism #magnets #physics #engineering #ev #howitworks #electricity #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Current in a wire makes a magnetic field, and a magnet pushes on it. Bend the wire into a loop and you get a twist; flip the current every half turn and it spins forever.\n\n#electricmotor #electromagnetism #magnets #physics #engineering #ev #howitworks #electricity #science #shorts #education #stem",
+  "title": "How an electric motor spins",
+  "comment": "#electricmotor #electromagnetism #magnets #physics"
+ },
+ "2026-11-15_point-plane-distance.mp4": {
+  "ig": "Distance from a point to a plane\n\nPlane x + 2y + 2z = 3, point P = (2, 3, 1). Plug in: |2 + 6 + 2 - 3| / sqrt(1 + 4 + 4) = 7/3. The shortest way to a plane is always along the normal.\n\n#linearalgebra #vectors #geometry #3d #math #mathematics #maths #engineering #calculus #learnoninstagram #education #stem #explained",
+  "yt_desc": "Plane x + 2y + 2z = 3, point P = (2, 3, 1). Plug in: |2 + 6 + 2 - 3| / sqrt(1 + 4 + 4) = 7/3. The shortest way to a plane is always along the normal.\n\n#linearalgebra #vectors #geometry #3d #math #mathematics #maths #engineering #calculus #shorts #education #stem",
+  "title": "Distance from a point to a plane",
+  "comment": "#linearalgebra #vectors #geometry #3d"
+ },
+ "2026-11-16_vaccine.mp4": {
+  "ig": "How a vaccine trains your immune system\n\nA vaccine shows your immune system the shape of a germ without the germ. The few cells that fit multiply, make antibodies, and leave memory cells behind, so the real thing gets stopped in days instead of weeks.\n\n#vaccine #immunesystem #biology #medicine #health #immunology #science #howitworks #biologystudent #learnoninstagram #education #stem #explained",
+  "yt_desc": "A vaccine shows your immune system the shape of a germ without the germ. The few cells that fit multiply, make antibodies, and leave memory cells behind, so the real thing gets stopped in days instead of weeks.\n\n#vaccine #immunesystem #biology #medicine #health #immunology #science #howitworks #biologystudent #shorts #education #stem",
+  "title": "How a vaccine trains your immune system",
+  "comment": "#vaccine #immunesystem #biology #medicine"
+ },
+ "2026-11-16_wifi.mp4": {
+  "ig": "How Wi-Fi sends data through the air\n\nYour router is a tiny radio station. It changes the strength and timing of a 12 cm radio wave, each shape stands for a group of bits, and hundreds of sub-channels carry data side by side.\n\n#wifi #internet #router #radio #tech #networking #physics #howitworks #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "Your router is a tiny radio station. It changes the strength and timing of a 12 cm radio wave, each shape stands for a group of bits, and hundreds of sub-channels carry data side by side.\n\n#wifi #internet #router #radio #tech #networking #physics #howitworks #science #shorts #education #stem",
+  "title": "How Wi-Fi sends data through the air",
+  "comment": "#wifi #internet #router #radio"
+ },
+ "2026-11-16_null-column-space.mp4": {
+  "ig": "Null space and column space\n\nA = [1 2; 2 4]. Column space: the line through (1, 2), everything A can reach. Null space: the line through (-2, 1), everything A sends to zero. 1 + 1 = 2 columns, that's rank-nullity.\n\n#linearalgebra #nullspace #columnspace #rank #matrix #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "A = [1 2; 2 4]. Column space: the line through (1, 2), everything A can reach. Null space: the line through (-2, 1), everything A sends to zero. 1 + 1 = 2 columns, that's rank-nullity.\n\n#linearalgebra #nullspace #columnspace #rank #matrix #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "Null space and column space",
+  "comment": "#linearalgebra #nullspace #columnspace #rank"
+ },
+ "2026-11-17_nuclear.mp4": {
+  "ig": "How a nuclear power plant works\n\nOne uranium pellet holds about as much energy as a tonne of coal. Neutrons split uranium, the heat boils water in a separate sealed loop, and the steam spins a turbine. A nuclear plant is a giant kettle with an unusual fire.\n\n#nuclearpower #nuclearenergy #energy #physics #uranium #engineering #cleanenergy #howitworks #science #learnoninstagram #education #stem #explained",
+  "yt_desc": "One uranium pellet holds about as much energy as a tonne of coal. Neutrons split uranium, the heat boils water in a separate sealed loop, and the steam spins a turbine. A nuclear plant is a giant kettle with an unusual fire.\n\n#nuclearpower #nuclearenergy #energy #physics #uranium #engineering #cleanenergy #howitworks #science #shorts #education #stem",
+  "title": "How a nuclear power plant works",
+  "comment": "#nuclearpower #nuclearenergy #energy #physics"
+ },
+ "2026-11-17_seasons.mp4": {
+  "ig": "Why we have seasons\n\nEarth is closest to the Sun in early January, so it's not distance. A 23.5° tilt that always points the same way makes each half take turns leaning in: higher sun, more energy per square metre, and 18-hour days in Stockholm.\n\n#seasons #earth #astronomy #space #sun #earthscience #geography #science #nature #learnoninstagram #education #stem #explained",
+  "yt_desc": "Earth is closest to the Sun in early January, so it's not distance. A 23.5° tilt that always points the same way makes each half take turns leaning in: higher sun, more energy per square metre, and 18-hour days in Stockholm.\n\n#seasons #earth #astronomy #space #sun #earthscience #geography #science #nature #shorts #education #stem",
+  "title": "Why we have seasons",
+  "comment": "#seasons #earth #astronomy #space"
+ },
+ "2026-11-17_diagonalisation.mp4": {
+  "ig": "Diagonalisation: seeing a matrix in its best basis\n\nA = [2 1; 1 2] looks messy, but along (1, 1) it stretches by 3 and along (1, -1) it does nothing. Use those as your axes: A = P D P^-1, and A^10 = P D^10 P^-1 is just 3^10 and 1.\n\n#linearalgebra #diagonalization #eigenvalues #eigenvectors #matrix #math #mathematics #maths #engineering #learnoninstagram #education #stem #explained",
+  "yt_desc": "A = [2 1; 1 2] looks messy, but along (1, 1) it stretches by 3 and along (1, -1) it does nothing. Use those as your axes: A = P D P^-1, and A^10 = P D^10 P^-1 is just 3^10 and 1.\n\n#linearalgebra #diagonalization #eigenvalues #eigenvectors #matrix #math #mathematics #maths #engineering #shorts #education #stem",
+  "title": "Diagonalisation: seeing a matrix in its best basis",
+  "comment": "#linearalgebra #diagonalization #eigenvalues #eigenvectors"
+ },
+ "2026-11-18_smoke-detector.mp4": {
+  "ig": "How a smoke detector works\n\nAn optical smoke detector never sees the fire. An infrared LED shines past a sensor in a dark chamber, and smoke scatters some of that light onto it. Older ionisation detectors use a speck of americium and notice when a tiny current drops. Test yours once a month.\n\n#smokedetector #firesafety #physics #howitworks #science #engineering #light #learnoninstagram",
+  "yt_desc": "An optical smoke detector never sees the fire. An infrared LED shines past a sensor in a dark chamber, and smoke scatters some of that light onto it. Older ionisation detectors use a speck of americium and notice when a tiny current drops. Test yours once a month.\n\n#shorts #smokedetector #firesafety #physics #howitworks #science #engineering #light",
+  "title": "How a smoke detector works",
+  "comment": "#smokedetector #firesafety #physics #howitworks"
+ },
+ "2026-11-18_moon-phases.mp4": {
+  "ig": "Why the Moon has phases\n\nIt's not Earth's shadow. The Sun always lights exactly half of the Moon, and as the Moon circles us every 29.5 days we see that lit half from a different angle: new, first quarter, full, and back again.\n\n#moon #moonphases #space #astronomy #science #physics #learnoninstagram",
+  "yt_desc": "It's not Earth's shadow. The Sun always lights exactly half of the Moon, and as the Moon circles us every 29.5 days we see that lit half from a different angle: new, first quarter, full, and back again.\n\n#shorts #moon #moonphases #space #astronomy #science #physics",
+  "title": "Why the Moon has phases",
+  "comment": "#moon #moonphases #space #astronomy"
+ },
+ "2026-11-18_planes-3d.mp4": {
+  "ig": "Planes in 3D: parametric form vs normal form\n\nOne plane, two descriptions. Parametric form (1,0,0) + s(1,1,0) + t(0,1,1) makes points; normal form x − y + z = 1 checks them. The normal comes from u × v = (1, −1, 1).\n\n#linearalgebra #planes #vectors #crossproduct #math #maths #engineering #learnoninstagram",
+  "yt_desc": "One plane, two descriptions. Parametric form (1,0,0) + s(1,1,0) + t(0,1,1) makes points; normal form x − y + z = 1 checks them. The normal comes from u × v = (1, −1, 1).\n\n#shorts #linearalgebra #planes #vectors #crossproduct #math #maths #engineering",
+  "title": "Planes in 3D: parametric form vs normal form",
+  "comment": "#linearalgebra #planes #vectors #crossproduct"
+ }
+}
