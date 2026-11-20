@@ -220,5 +220,23 @@
   "yt_desc": "One plane, two descriptions. Parametric form (1,0,0) + s(1,1,0) + t(0,1,1) makes points; normal form x − y + z = 1 checks them. The normal comes from u × v = (1, −1, 1).\n\n#shorts #linearalgebra #planes #vectors #crossproduct #math #maths #engineering",
   "title": "Planes in 3D: parametric form vs normal form",
   "comment": "#linearalgebra #planes #vectors #crossproduct"
+ },
+ "2026-11-19_pressure-cooker.mp4": {
+  "ig": "How a pressure cooker cooks faster\n\nA pressure cooker doesn't add more heat. Its sealed lid traps steam, pressure rises to about twice normal air pressure, and water then boils at about 120 °C instead of 100 °C. Hotter water cooks food in roughly a third of the time.\n\n#pressurecooker #cooking #physics #boilingpoint #howitworks #science #kitchenscience #learnoninstagram",
+  "yt_desc": "A pressure cooker doesn't add more heat. Its sealed lid traps steam, pressure rises to about twice normal air pressure, and water then boils at about 120 °C instead of 100 °C. Hotter water cooks food in roughly a third of the time.\n\n#shorts #pressurecooker #cooking #physics #boilingpoint #howitworks #science #kitchenscience",
+  "title": "How a pressure cooker cooks faster",
+  "comment": "#pressurecooker #cooking #physics #boilingpoint"
+ },
+ "2026-11-19_soap-bubbles.mp4": {
+  "ig": "Why soap bubbles are round\n\nA bubble is a thin skin of soapy water around trapped air, and surface tension makes that skin shrink to the least area. For a fixed volume of air, that shape is a sphere, whatever the wand looks like. Soap makes the skin weaker in tension but self-healing, and its thickness paints the colours.\n\n#soapbubbles #surfacetension #physics #howitworks #science #chemistry #learnoninstagram",
+  "yt_desc": "A bubble is a thin skin of soapy water around trapped air, and surface tension makes that skin shrink to the least area. For a fixed volume of air, that shape is a sphere, whatever the wand looks like. Soap makes the skin weaker in tension but self-healing, and its thickness paints the colours.\n\n#shorts #soapbubbles #surfacetension #physics #howitworks #science #chemistry",
+  "title": "Why soap bubbles are round",
+  "comment": "#soapbubbles #surfacetension #physics #howitworks"
+ },
+ "2026-11-19_projection-matrix.mp4": {
+  "ig": "Projection matrices: why P squared equals P\n\nProject b = (3, 1) onto the line through (1, 1): P = a aᵀ / aᵀa = ½ [1 1; 1 1], so Pb = (2, 2) and the error (1, −1) is perpendicular to the line. Projecting again changes nothing, so P² = P, and the eigenvalues can only be 0 or 1.\n\n#linearalgebra #projection #matrix #eigenvalues #math #maths #engineering #learnoninstagram",
+  "yt_desc": "Project b = (3, 1) onto the line through (1, 1): P = a aᵀ / aᵀa = ½ [1 1; 1 1], so Pb = (2, 2) and the error (1, −1) is perpendicular to the line. Projecting again changes nothing, so P² = P, and the eigenvalues can only be 0 or 1.\n\n#shorts #linearalgebra #projection #matrix #eigenvalues #math #maths #engineering",
+  "title": "Projection matrices: why P squared equals P",
+  "comment": "#linearalgebra #projection #matrix #eigenvalues"
  }
 }
