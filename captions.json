@@ -238,5 +238,23 @@
   "yt_desc": "Project b = (3, 1) onto the line through (1, 1): P = a aᵀ / aᵀa = ½ [1 1; 1 1], so Pb = (2, 2) and the error (1, −1) is perpendicular to the line. Projecting again changes nothing, so P² = P, and the eigenvalues can only be 0 or 1.\n\n#shorts #linearalgebra #projection #matrix #eigenvalues #math #maths #engineering",
   "title": "Projection matrices: why P squared equals P",
   "comment": "#linearalgebra #projection #matrix #eigenvalues"
+ },
+ "2026-11-20_hydraulic-jack.mp4": {
+  "ig": "How a hydraulic jack lifts a car\n\nHow does a tiny push lift a whole car? A hydraulic jack traps oil between a small piston and a big one, and Pascal's law does the rest: 50 newtons in, 5,000 newtons out. The catch? You push 100 times farther.\n\n#hydraulics #hydraulicjack #pascalslaw #pressure #physics #howitworks #engineering #science #learnoninstagram",
+  "yt_desc": "How does a tiny push lift a whole car? A hydraulic jack traps oil between a small piston and a big one, and Pascal's law does the rest: 50 newtons in, 5,000 newtons out. The catch? You push 100 times farther.\n\n#shorts #hydraulics #hydraulicjack #pascalslaw #pressure #physics #howitworks #engineering #science",
+  "title": "How a hydraulic jack lifts a car",
+  "comment": "#hydraulics #hydraulicjack #pascalslaw #pressure"
+ },
+ "2026-11-20_metal-wood.mp4": {
+  "ig": "Why metal feels colder than wood\n\nMetal and wood in the same room are the same temperature, so why does metal feel so much colder? Your skin feels how fast heat leaves, not temperature.\n\n#thermalconductivity #heattransfer #physics #whymetalfeelscold #howitworks #science #thermodynamics #learnoninstagram",
+  "yt_desc": "Metal and wood in the same room are the same temperature, so why does metal feel so much colder? Your skin feels how fast heat leaves, not temperature.\n\n#shorts #thermalconductivity #heattransfer #physics #whymetalfeelscold #howitworks #science #thermodynamics",
+  "title": "Why metal feels colder than wood",
+  "comment": "#thermalconductivity #heattransfer #physics #whymetalfeelscold"
+ },
+ "2026-11-20_orthogonal.mp4": {
+  "ig": "Orthogonal matrices\n\nOrthogonal matrices rotate and flip vectors without changing lengths or angles. Q transpose times Q equals I, so the inverse is just the transpose.\n\n#linearalgebra #orthogonalmatrix #matrix #math #maths #engineering #rotation #qr #learnoninstagram",
+  "yt_desc": "Orthogonal matrices rotate and flip vectors without changing lengths or angles. Q transpose times Q equals I, so the inverse is just the transpose.\n\n#shorts #linearalgebra #orthogonalmatrix #matrix #math #maths #engineering #rotation #qr",
+  "title": "Orthogonal matrices",
+  "comment": "#linearalgebra #orthogonalmatrix #matrix #math"
  }
 }
