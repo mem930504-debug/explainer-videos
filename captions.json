@@ -256,5 +256,23 @@
   "yt_desc": "Orthogonal matrices rotate and flip vectors without changing lengths or angles. Q transpose times Q equals I, so the inverse is just the transpose.\n\n#shorts #linearalgebra #orthogonalmatrix #matrix #math #maths #engineering #rotation #qr",
   "title": "Orthogonal matrices",
   "comment": "#linearalgebra #orthogonalmatrix #matrix #math"
+ },
+ "2026-11-21_thermos.mp4": {
+  "ig": "How a thermos keeps coffee hot\n\nHow does a thermos keep coffee hot for hours? It's a bottle inside a bottle with the air pumped out, plus shiny walls and an insulating lid. That blocks conduction, convection and radiation.\n\n#thermos #vacuumflask #heattransfer #insulation #physics #howitworks #science #learnoninstagram",
+  "yt_desc": "How does a thermos keep coffee hot for hours? It's a bottle inside a bottle with the air pumped out, plus shiny walls and an insulating lid. That blocks conduction, convection and radiation.\n\n#shorts #thermos #vacuumflask #heattransfer #insulation #physics #howitworks #science",
+  "title": "How a thermos keeps coffee hot",
+  "comment": "#thermos #vacuumflask #heattransfer #insulation"
+ },
+ "2026-11-21_magnet.mp4": {
+  "ig": "Why magnets grab iron but not wood\n\nWhy does a magnet grab iron but ignore wood and plastic? The magnet's field lines up the tiny magnetic domains inside the iron, turning it into a magnet too, and then opposite poles attract.\n\n#magnet #magnetism #magneticfield #iron #physics #howitworks #science #learnoninstagram",
+  "yt_desc": "Why does a magnet grab iron but ignore wood and plastic? The magnet's field lines up the tiny magnetic domains inside the iron, turning it into a magnet too, and then opposite poles attract.\n\n#shorts #magnet #magnetism #magneticfield #iron #physics #howitworks #science",
+  "title": "Why magnets grab iron but not wood",
+  "comment": "#magnet #magnetism #magneticfield #iron"
+ },
+ "2026-11-21_transpose.mp4": {
+  "ig": "Why (AB) transpose reverses the order\n\nWhy is (AB) transpose equal to B transpose times A transpose? An entry of AB is a row of A dotted with a column of B, and flipping swaps their roles, so the order reverses. Like socks and shoes.\n\n#linearalgebra #transpose #matrix #math #maths #engineering #learnoninstagram",
+  "yt_desc": "Why is (AB) transpose equal to B transpose times A transpose? An entry of AB is a row of A dotted with a column of B, and flipping swaps their roles, so the order reverses. Like socks and shoes.\n\n#shorts #linearalgebra #transpose #matrix #math #maths #engineering",
+  "title": "Why (AB) transpose reverses the order",
+  "comment": "#linearalgebra #transpose #matrix #math"
  }
 }
