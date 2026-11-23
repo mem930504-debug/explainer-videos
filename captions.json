@@ -274,5 +274,23 @@
   "yt_desc": "Why is (AB) transpose equal to B transpose times A transpose? An entry of AB is a row of A dotted with a column of B, and flipping swaps their roles, so the order reverses. Like socks and shoes.\n\n#shorts #linearalgebra #transpose #matrix #math #maths #engineering",
   "title": "Why (AB) transpose reverses the order",
   "comment": "#linearalgebra #transpose #matrix #math"
+ },
+ "2026-11-22_goosebumps.mp4": {
+  "ig": "Why do we get goosebumps?\n\nA tiny muscle pulls each hair upright, triggered by cold or strong emotion. It is a leftover from our furry ancestors.\n\n#goosebumps #skin #biology #humanbody #science #howitworks #nervoussystem #learnoninstagram",
+  "yt_desc": "A tiny muscle pulls each hair upright, triggered by cold or strong emotion. It is a leftover from our furry ancestors.\n\n#shorts #goosebumps #skin #biology #humanbody #science #howitworks #nervoussystem",
+  "title": "Why do we get goosebumps?",
+  "comment": "#goosebumps #skin #biology #humanbody"
+ },
+ "2026-11-22_onions.mp4": {
+  "ig": "Why do onions make you cry?\n\nCutting an onion mixes two enzymes with sulfur compounds and makes a gas that stings your eyes. Your tears are a reflex.\n\n#onions #chemistry #science #cooking #enzymes #howitworks #biology #learnoninstagram",
+  "yt_desc": "Cutting an onion mixes two enzymes with sulfur compounds and makes a gas that stings your eyes. Your tears are a reflex.\n\n#shorts #onions #chemistry #science #cooking #enzymes #howitworks #biology",
+  "title": "Why do onions make you cry?",
+  "comment": "#onions #chemistry #science #cooking"
+ },
+ "2026-11-22_trace.mp4": {
+  "ig": "The trace of a matrix equals the sum of its eigenvalues\n\nAdd the diagonal and you get the sum of the eigenvalues. Here is why, with a worked example.\n\n#linearalgebra #trace #eigenvalues #matrix #math #maths #engineering #learnoninstagram",
+  "yt_desc": "Add the diagonal and you get the sum of the eigenvalues. Here is why, with a worked example.\n\n#shorts #linearalgebra #trace #eigenvalues #matrix #math #maths #engineering",
+  "title": "The trace of a matrix equals the sum of its eigenvalues",
+  "comment": "#linearalgebra #trace #eigenvalues #matrix"
  }
 }
