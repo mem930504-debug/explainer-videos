@@ -328,5 +328,23 @@
   "yt_desc": "Why are symmetric matrices the nicest? Real eigenvalues, perpendicular eigenvectors, A = QDQ transpose.\n\n#shorts #linearalgebra #symmetricmatrix #spectraltheorem #eigenvalues #matrix #math #maths #engineering",
   "title": "Why symmetric matrices are the nicest",
   "comment": "#linearalgebra #symmetricmatrix #spectraltheorem #eigenvalues"
+ },
+ "2026-11-25_thermostat.mp4": {
+  "ig": "How a thermostat works\n\nHow does a thermostat keep a room at one temperature? Two metals, a bending strip and a feedback loop.\n\n#thermostat #bimetallicstrip #feedback #physics #heating #howitworks #science #learnoninstagram",
+  "yt_desc": "How does a thermostat keep a room at one temperature? Two metals, a bending strip and a feedback loop.\n\n#shorts #thermostat #bimetallicstrip #feedback #physics #heating #howitworks #science",
+  "title": "How a thermostat works",
+  "comment": "#thermostat #bimetallicstrip #feedback #physics"
+ },
+ "2026-11-25_sunset-red.mp4": {
+  "ig": "Why the sky is red at sunset\n\nWhy is the sky red at sunset? The sunlight travels through more air, and the blue gets scattered away.\n\n#sunset #rayleighscattering #sky #physics #light #howitworks #science #learnoninstagram",
+  "yt_desc": "Why is the sky red at sunset? The sunlight travels through more air, and the blue gets scattered away.\n\n#shorts #sunset #rayleighscattering #sky #physics #light #howitworks #science",
+  "title": "Why the sky is red at sunset",
+  "comment": "#sunset #rayleighscattering #sky #physics"
+ },
+ "2026-11-25_ata-psd.mp4": {
+  "ig": "Why A transpose A is never negative\n\nWhy is A transpose A never negative? Because x transpose A transpose A x = |Ax|² ≥ 0.\n\n#linearalgebra #positivesemidefinite #transpose #symmetricmatrix #matrix #math #maths #engineering #learnoninstagram",
+  "yt_desc": "Why is A transpose A never negative? Because x transpose A transpose A x = |Ax|² ≥ 0.\n\n#shorts #linearalgebra #positivesemidefinite #transpose #symmetricmatrix #matrix #math #maths #engineering",
+  "title": "Why A transpose A is never negative",
+  "comment": "#linearalgebra #positivesemidefinite #transpose #symmetricmatrix"
  }
 }
