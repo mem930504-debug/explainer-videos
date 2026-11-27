@@ -346,5 +346,23 @@
   "yt_desc": "Why is A transpose A never negative? Because x transpose A transpose A x = |Ax|² ≥ 0.\n\n#shorts #linearalgebra #positivesemidefinite #transpose #symmetricmatrix #matrix #math #maths #engineering",
   "title": "Why A transpose A is never negative",
   "comment": "#linearalgebra #positivesemidefinite #transpose #symmetricmatrix"
+ },
+ "2026-11-26_spirit-level.mp4": {
+  "ig": "How a spirit level works\n\nHow does a tiny bubble tell you a shelf is straight? A slightly arched tube, some liquid and gravity.\n\n#spiritlevel #buoyancy #gravity #physics #diy #howitworks #science #learnoninstagram",
+  "yt_desc": "How does a tiny bubble tell you a shelf is straight? A slightly arched tube, some liquid and gravity.\n\n#shorts #spiritlevel #buoyancy #gravity #physics #diy #howitworks #science",
+  "title": "How a spirit level works",
+  "comment": "#spiritlevel #buoyancy #gravity #physics"
+ },
+ "2026-11-26_popcorn.mp4": {
+  "ig": "Why popcorn pops\n\nWhy does popcorn pop? Trapped water turns to steam, the pressure builds to about 9 times the air around us, and the shell bursts.\n\n#popcorn #steam #pressure #chemistry #foodscience #howitworks #science #learnoninstagram",
+  "yt_desc": "Why does popcorn pop? Trapped water turns to steam, the pressure builds to about 9 times the air around us, and the shell bursts.\n\n#shorts #popcorn #steam #pressure #chemistry #foodscience #howitworks #science",
+  "title": "Why popcorn pops",
+  "comment": "#popcorn #steam #pressure #chemistry"
+ },
+ "2026-11-26_column-space.mp4": {
+  "ig": "When Ax = b has a solution\n\nWhen does Ax = b have a solution? Exactly when b is in the column space of A.\n\n#linearalgebra #columnspace #matrix #math #maths #engineering #learnoninstagram",
+  "yt_desc": "When does Ax = b have a solution? Exactly when b is in the column space of A.\n\n#shorts #linearalgebra #columnspace #matrix #math #maths #engineering",
+  "title": "When Ax = b has a solution",
+  "comment": "#linearalgebra #columnspace #matrix #math"
  }
 }
